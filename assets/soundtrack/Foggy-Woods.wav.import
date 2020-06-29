@@ -1,0 +1,21 @@
+[remap]
+
+importer="wav"
+type="AudioStreamSample"
+path="res://.import/Foggy-Woods.wav-dc8668b2b59583c3b6501f5737f0142f.sample"
+
+[deps]
+
+source_file="res://assets/soundtrack/Foggy-Woods.wav"
+dest_files=[ "res://.import/Foggy-Woods.wav-dc8668b2b59583c3b6501f5737f0142f.sample" ]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop=false
+compress/mode=0
